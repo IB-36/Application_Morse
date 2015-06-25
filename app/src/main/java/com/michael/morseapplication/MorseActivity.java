@@ -1,5 +1,9 @@
 package com.ibrahim.morseapplication;
 
+/**
+ * Created by Ibrahim on 2015-05-29.
+ */
+
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
