@@ -1,4 +1,4 @@
-package com.michael.morseapplication;
+package com.ibrahim.morseapplication;
 
 import android.app.IntentService;
 import android.content.Intent;
@@ -8,7 +8,7 @@ import android.util.Log;
 
 
 /**
- * Created by Michael on 2015-05-29.
+ * Created by Ibrahim on 2015-05-29.
  */
 
 @SuppressWarnings("deprecation")
