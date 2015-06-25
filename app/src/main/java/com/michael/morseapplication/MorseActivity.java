@@ -1,4 +1,4 @@
-package com.morseapplication;
+package com.ibrahim.morseapplication;
 
 import android.app.Activity;
 import android.app.AlertDialog;
