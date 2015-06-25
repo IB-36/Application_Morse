@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Morse Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sos">SOS</string>
+    <string name="button_send">Send</string>
+    <string name="button_stop">Stop</string>
+    <string name="enter_message">Enter your message</string>
+
+    <string-array name="frequency_array">
+        <item>Medium frequency</item>
+        <item>Low frequency</item>
+        <item>High frequency</item>
+    </string-array>
+
+</resources>
