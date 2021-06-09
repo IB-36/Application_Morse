@@ -1,4 +1,4 @@
-package com.arnold.morseapplication;
+package com.ibrahim.morseapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
